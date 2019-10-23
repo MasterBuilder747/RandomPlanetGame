@@ -10,4 +10,6 @@ Game is a Survival/Exploration/Base-Building/Defence/Crafting/Empire-Building/Et
 
 For now, the player can simply explore a universe that is randomly generated and must recolinze the human race to a new planet
 
-Using some technolgy, the player must rebuild and inhabit to expand the human race
+Using some technolgy, the player must rebuild and inhabit to expand thier empire
+
+Empires can then interact with each other (not in this game, requires multiplaer connection, too high of a scope for this)
