@@ -1,4 +1,4 @@
-package Main;
+package Universe.Galaxy.Arm.StarRegion.StarCluster.Star.Planet;
 
 public class Planet {
 

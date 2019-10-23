@@ -1,10 +1,14 @@
 package Main;
 
 import java.util.*;
+import Player.Player;
+import Universe.Galaxy.Arm.StarRegion.StarCluster.Star.Planet.Planet;
 
 public class Main {
 
     public static void main(String[] args) {
+
+        //all handles of the game, all of the engines are put here, implements and renders the game
 
         System.out.println("===Random Planet Game===");
 
@@ -12,8 +16,13 @@ public class Main {
         //this describes the process a bit better
         Scanner kb = new Scanner(System.in);
         Random r = new Random();
-        Planet p = new Planet();
 
+        //setup
+        //initialize the player
+        Player p = new Player();
+
+        //generate random planets
+        Planet pl = new Planet();
 
     }
 
