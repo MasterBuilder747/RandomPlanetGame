@@ -12,4 +12,4 @@ For now, the player can simply explore a universe that is randomly generated and
 
 Using some technolgy, the player must rebuild and inhabit to expand thier empire
 
-Empires can then interact with each other (not in this game, requires multiplaer connection, too high of a scope for this)
+Empires can then interact with each other (not in this game, requires multiplayer connection, too high of a scope for this)
