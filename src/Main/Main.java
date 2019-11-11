@@ -2,6 +2,7 @@ package Main;
 
 import java.util.*;
 import Player.Player;
+import Resources.Natural.Elements.Element;
 import Universe.Galaxy.Arm.StarRegion.StarCluster.Star.Planet.Planet;
 
 public class Main {
@@ -20,6 +21,9 @@ public class Main {
         //setup
         //initialize the player
         Player p = new Player();
+
+        Element e = new Element("name", 2, 1, 1, 0);
+        
 
         //generate random planets
         Planet pl = new Planet();
