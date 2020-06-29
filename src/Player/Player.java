@@ -23,7 +23,7 @@ public class Player {
 
 
     //additional values, not to do with survival
-    double coins = 0; //0-max in value, ~2.1 Billion, the currency in the game
+    int coins = 0; //0-max in value, ~2.1 Billion, the currency in the game
 
     //diseases can be implemented (use an object)
     //it can be called by name and it modifies a combination of the player's variables, depending on the disease
